@@ -14,7 +14,7 @@
  *    Rob Wilbert        2600726537    26/X/26537/PS
  *    Ssenfuma Emmanuel  2600703644    26/U/03644/PS
  *  Session      : Day / Afternoon
- *  GitHub link  : https://github.com/c-eo/oop-practical
+ *  GitHub link  : https://github.com/Mu-Solomon/exam_project
  * ============================================================
  *  MAIN FILE: run this class (StudentGUI) to start the application.
  */
