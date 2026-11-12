@@ -4,14 +4,17 @@
  *  Practical Exam Project - Student Marks Management System
  * ============================================================
  *  GROUP DETAILS (fill in before submitting)
- *  Group name   :Group 24
- *  Group leader : LUBEGA MICHAEL
- *  Members      : 1. Name ______________ Reg No ______________
- *                 2. Name ______________ Reg No ______________
- *                 3. Name ______________ Reg No ______________
- *                 4. Name ______________ Reg No ______________
+ *  Group name   : Group 24
+ *  Group leader : Lubega Michael
+ *  Members      :
+ *    Name               Student No.   Registration No.
+ *    Sebalemba Dennis   2600726046    26/U/26046/PS
+ *    Lubega Michael     2600703548    26/U/03548/PS
+ *    Muyonjo Solomon    2600703581    26/U/03581/PS
+ *    Rob Wilbert        2600726537    26/X/26537/PS
+ *    Ssenfuma Emmanuel  2600703644    26/U/03644/PS
  *  Session      : Day / Afternoon
- *  GitHub link  : https://github.com/____________________
+ *  GitHub link  : https://github.com/c-eo/oop-practical
  * ============================================================
  *  MAIN FILE: run this class (StudentGUI) to start the application.
  */
